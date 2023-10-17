@@ -24,7 +24,7 @@ Using the `option` slot with props `"option"` provides the current option variab
 ### Improving the default `no-options` text
 
 The `no-options` slot is displayed in the dropdown when `filteredOptions === 0`. By default, it
-displays _Sorry, no matching options_. You can add more contextual information by using the slot
+displays _Извините, нет подходящих вариантов._. You can add more contextual information by using the slot
 in your own apps.
 
 <BetterNoOptions />

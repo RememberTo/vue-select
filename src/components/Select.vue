@@ -119,7 +119,7 @@
         </li>
         <li v-if="filteredOptions.length === 0" class="vs__no-options">
           <slot name="no-options" v-bind="scope.noOptions">
-            Sorry, no matching options.
+            Извините, нет подходящих вариантов.
           </slot>
         </li>
         <slot name="list-footer" v-bind="scope.listFooter" />

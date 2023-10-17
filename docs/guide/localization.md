@@ -33,7 +33,7 @@ All of the text within the component has been wrapped within [slots](https://vue
 ### No Options Text
 *Slot Definition:*
 ```html
-<slot name="no-options">Sorry, no matching options.</slot>
+<slot name="no-options">Извините, нет подходящих вариантов.</slot>
 ```
 *Implementation:*
 ```html
